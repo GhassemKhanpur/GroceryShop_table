@@ -1,0 +1,3 @@
+	_________________________________| Välkommen till frukt fabriken! |__________________________________
+-Fruktnamn:   päron   | färg: gul | Kcal: 12.5 kilo kalorier. | Frukt pris 150.50 kr. | har ätbar nej | har Skal: ja
+-Fruktnamn: jordgubbe | färg: röd | Kcal: 15.5 kilo kalorier. | Frukt pris 120.50 kr. | har ätbar ja | har Skal: nej

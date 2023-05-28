@@ -1,0 +1,3 @@
+	__________________________| Välkommen till mejeriprodukt fabriken! |__________________________________
+-Mejeriprodukt namn:  smör  | i form: fast | Antal användbara dagar: 12 | FettProcent: 2.5%  | Laktozfri: ja
+-Mejeriprodukt namn: grädde | i form: fast | Antal användbara dagar: 16 | FettProcent:  5.5%  | Laktozfri: ja

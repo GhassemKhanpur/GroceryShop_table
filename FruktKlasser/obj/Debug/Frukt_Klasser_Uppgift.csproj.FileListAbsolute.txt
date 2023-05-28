@@ -1,0 +1,16 @@
+C:\Users\Maz\source\repos\FirstAssignment\bin\Debug\FirstAssignment.exe.config
+C:\Users\Maz\source\repos\FirstAssignment\bin\Debug\FirstAssignment.exe
+C:\Users\Maz\source\repos\FirstAssignment\bin\Debug\FirstAssignment.pdb
+C:\Users\Maz\source\repos\FirstAssignment\obj\Debug\Frukt_Klasser_Uppgift.csproj.AssemblyReference.cache
+C:\Users\Maz\source\repos\FirstAssignment\obj\Debug\Frukt_Klasser_Uppgift.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maz\source\repos\FirstAssignment\obj\Debug\Frukt_Klasser_Uppgift.csproj.CoreCompileInputs.cache
+C:\Users\Maz\source\repos\FirstAssignment\obj\Debug\FirstAssignment.exe
+C:\Users\Maz\source\repos\FirstAssignment\obj\Debug\FirstAssignment.pdb
+C:\Users\Maz\source\repos\FruktKlasser\FirstAssignment\bin\Debug\FirstAssignment.exe.config
+C:\Users\Maz\source\repos\FruktKlasser\FirstAssignment\bin\Debug\FirstAssignment.exe
+C:\Users\Maz\source\repos\FruktKlasser\FirstAssignment\bin\Debug\FirstAssignment.pdb
+C:\Users\Maz\source\repos\FruktKlasser\FirstAssignment\obj\Debug\Frukt_Klasser_Uppgift.csproj.AssemblyReference.cache
+C:\Users\Maz\source\repos\FruktKlasser\FirstAssignment\obj\Debug\Frukt_Klasser_Uppgift.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maz\source\repos\FruktKlasser\FirstAssignment\obj\Debug\Frukt_Klasser_Uppgift.csproj.CoreCompileInputs.cache
+C:\Users\Maz\source\repos\FruktKlasser\FirstAssignment\obj\Debug\FirstAssignment.exe
+C:\Users\Maz\source\repos\FruktKlasser\FirstAssignment\obj\Debug\FirstAssignment.pdb

@@ -1,0 +1,8 @@
+C:\Users\Maz\source\repos\FirstAssignment\obj\Debug\P2_OOP_V2_Student.csproj.AssemblyReference.cache
+C:\Users\Maz\source\repos\FirstAssignment\obj\Debug\P2_OOP_V2_Student.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maz\source\repos\FirstAssignment\obj\Debug\P2_OOP_V2_Student.csproj.CoreCompileInputs.cache
+C:\Users\Maz\source\repos\FirstAssignment\bin\Debug\FirstAssignment.exe.config
+C:\Users\Maz\source\repos\FirstAssignment\bin\Debug\FirstAssignment.exe
+C:\Users\Maz\source\repos\FirstAssignment\bin\Debug\FirstAssignment.pdb
+C:\Users\Maz\source\repos\FirstAssignment\obj\Debug\FirstAssignment.exe
+C:\Users\Maz\source\repos\FirstAssignment\obj\Debug\FirstAssignment.pdb
